@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Talon9
 - 👀 I’m interested in lots more stuff than I have time for
-- 🌱 I’m currently learning Razor and loving it
+- 🌱 I’m currently learning Python and loving it
 - 💞️ I’m looking to collaborate on mapping
 - 📫 How to reach me adeslandes9@gmail.com
 
